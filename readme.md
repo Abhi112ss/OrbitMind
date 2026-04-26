@@ -330,5 +330,3 @@ orbitalmind/
 - [Leafmap](https://leafmap.org/) — interactive geospatial mapping
 
 ---
-
-*Built for hackathon demonstration. Not for operational deployment.*
